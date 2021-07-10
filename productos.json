@@ -1,0 +1,64 @@
+[{
+    "id": 0,
+    "titulo": "Mario Odyssey",
+    "precio": 50,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/01_SuperMarioOdyssey.jpg"
+  },
+  {
+    "id": 1,
+    "titulo": "Super Mario Maker",
+    "precio": 47,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/07_MarioMarker2.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Zelda",
+    "precio": 45,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/02_zelda.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Pokémon",
+    "precio": 40,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/03_pokemon.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Donkey Kong",
+    "precio": 60,
+    "subtitulo": "Es un juego de intendo",
+    "img": "img/04_donkeykong.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Dragon Ball",
+    "precio": 55,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/05_dragonball.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Mortal Kombat 11",
+    "precio": 50,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/06_MortalKombat.jpg"
+  },
+
+  {
+    "id": 7,
+    "titulo": "Crash Bandiccot",
+    "precio": 38,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/08_crash.png"
+  },
+  {
+    "id": 8,
+    "titulo": "Diablo",
+    "precio": 42,
+    "subtitulo": "Es un juego de Nintendo",
+    "img": "img/09_diablo.jpg"
+  }]
